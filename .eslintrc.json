@@ -4,6 +4,7 @@
 		"no-unused-vars": [
 			"warn",
 			{ "vars": "none", "args": "after-used", "ignoreRestSiblings": true }
-		]
+		],
+		"react/prop-types": 0
 	}
 }

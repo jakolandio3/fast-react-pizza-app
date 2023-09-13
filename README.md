@@ -1,8 +1,13 @@
-# React + Vite
+# Fast React Pizza co.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A small single page application built for learning purposes, it integrates vite and react and practices front end development skills working on a "real world" project
 
-Currently, two official plugins are available:
+## Quick Start guide
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+(1) npm i (get node modules needed for development)
+(2) make sure you have eslint configured for extend-react-app (you can add to package.json or add a .eslintjson file)
+(3) npm run dev (starts development server default PORT: 5173)
+
+### Created by Jakob D 2023
+
+built for learning purposes through self guided training and react course on Udemy by Jonas Schmedtmann

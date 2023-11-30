@@ -9,7 +9,7 @@ import OrderItem from "./OrderItem";
 import { getOrder } from "../../services/apiRestaurant.js";
 import { useFetcher, useLoaderData } from "react-router-dom";
 import { useEffect } from "react";
-import UpdateOrder from "./updateOrder";
+import UpdateOrder from "./UpdateOrder";
 
 function Order() {
   const order = useLoaderData();
